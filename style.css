@@ -1,3 +1,8 @@
+*{
+    box-sizing: border-box;
+    }
+
+    
 body {
     background: linear-gradient(to bottom right, rgb(235, 83, 108), rgb(106, 69, 227));
     font-family: 'Poppins', sans-serif;
